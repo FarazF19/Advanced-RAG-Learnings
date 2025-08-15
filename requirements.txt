@@ -1,0 +1,12 @@
+# requirements.txt
+jupyter
+ipykernel
+python-dotenv
+langchain>=0.3.0
+langchain-community
+langchain-openai
+faiss-cpu
+pydantic
+tiktoken
+numpy
+pandas
