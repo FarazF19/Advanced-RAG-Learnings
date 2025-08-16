@@ -10,3 +10,6 @@ pydantic
 tiktoken
 numpy
 pandas
+langchain_groq
+sentence-transformers
+bs4
