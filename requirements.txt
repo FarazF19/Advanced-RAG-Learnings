@@ -13,3 +13,5 @@ pandas
 langchain_groq
 sentence-transformers
 bs4
+youtube-transcript-api
+
